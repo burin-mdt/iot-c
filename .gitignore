@@ -2,7 +2,9 @@ build
 download
 paho.mqtt.c
 doc/IoTP_C_Client_Docs
+doc/DoxyfileIOTPClientAPI
 test.log
 temp
 test/cunit_tests.log
+venv
 
